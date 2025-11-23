@@ -7,7 +7,7 @@ public class LoginTest {
 
     @Test
     public void loginTb(){
-        System.out.println("登录成功");
+        System.out.println("登录1成功");
     }
 
     @Test
