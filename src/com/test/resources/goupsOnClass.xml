@@ -12,7 +12,7 @@
         <!-- run里include写什么组，就运行那个组 -->
         <groups>
             <run>
-                <include name="stu"/>
+                <include name="bbb"/>
             </run>
         </groups>
         <classes>
